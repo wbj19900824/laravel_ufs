@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+/*  ȫ����ʽ */
+html,body,div,h1,h2,h3,h4,h5,h6,p,img,dl,dt,dd,ol,ul,li,table,caption,tbody,tfoot,thead,tr,th,td,form,fieldset,embed,object,applet,header,nav,section,strong,footer,a img{border:0;margin:0;padding:0}
+body, button, input, select, textarea {font: 12px/1.5   Microsoft YaHei,Verdana, Geneva, sans-serif, tahoma, Srial, helvetica, sans-serif;}
+body {background-color:#fff;line-height:22px;color:#333;}
+h1, h2, h3, h4, h5, h6 {font-size: 100%;}
+em {font-style:normal;}
+ul, ol {list-style: none;}
+a {text-decoration: none;color:#333;}
+a:active, a:focus {-moz-outline:none;outline:none;ie-dummy:expression(this.hideFocus=true);}
+       
+img,input{border:0px;vertical-align: middle;text-decoration: none;}
+table {border-collapse: collapse;border-spacing: 0;}
+
+
+/**������ʽ**/
+.clear{ clear:both; width:0px; height:0px; margin:0px; padding:0px; border:none; overflow:hidden;}
+.fl{ float:left;overflow: hidden;}
+.fr{ float:right;overflow: hidden;}
+.general-main{ width:1180px; margin:0 auto; overflow:hidden;}
+.ovw{overflow: hidden;}
+/* begin */
